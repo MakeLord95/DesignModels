@@ -1,4 +1,4 @@
-package Week_9.Adapter;
+package Week_10.Adapter;
 
 public class Adapter implements ClientInterface {
     private final ExistingService existingService;

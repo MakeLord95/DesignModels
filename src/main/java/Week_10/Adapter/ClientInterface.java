@@ -1,4 +1,4 @@
-package Week_9.Adapter;
+package Week_10.Adapter;
 
 public interface ClientInterface {
     void request();
